@@ -5,6 +5,8 @@ Developed interactive Power BI dashboards to analyze and monitor overall sales p
 - Power BI
 - Excel
 - DAX
+- Data Visualization Techniques
+
 
 ## Dashboard Features
 - KPI Cards
@@ -22,5 +24,15 @@ Developed interactive Power BI dashboards to analyze and monitor overall sales p
 
 ## Screan Short / Demo
 - Short Dashbord look -> https://github.com/adyasha2629/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/Screenshot%202026-05-17%20201610.png
+
+
+ # Future Improvements
+ - Add sales forecasting using machine learning
+ - Integrate real-time database connectivity
+ - Create mobile-responsive dashboard views
+ - Add customer segmentation analysis
+
+
+
 
 
