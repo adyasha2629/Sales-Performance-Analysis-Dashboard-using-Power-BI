@@ -13,4 +13,13 @@ Developed interactive Power BI dashboards to analyze and monitor overall sales p
 - Region-wise Performance
 - Product Analysis
 
+# Dataset Used For Power-BI 
+- Customerdata_dataset.csv
+- Productdata_dataset.csv
+- Data.csv_dataset.csv
+- Sales_dataset.csv
+
+
+Screan Short / Demo
+
 
