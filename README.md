@@ -20,6 +20,7 @@ Developed interactive Power BI dashboards to analyze and monitor overall sales p
 - Sales_dataset.csv
 
 
-Screan Short / Demo
+## Screan Short / Demo
+- Short Dashbord look -> https://github.com/adyasha2629/Sales-Performance-Analysis-Dashboard-using-Power-BI/blob/main/Screenshot%202026-05-17%20201610.png
 
 
